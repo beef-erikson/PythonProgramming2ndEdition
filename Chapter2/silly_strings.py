@@ -16,7 +16,7 @@ print("\nThis string " + "may not " + "seem terr" + "ibly impressive. "
 print("""
 If you really like a string, you can repeat it. For example, who doesn't 
 like pie? That's right, nobody. But if you really like it, you should
-say it like you mean it: """)
+say it like you mean it: """, end="")
 
 print("Pie" * 10)
 
